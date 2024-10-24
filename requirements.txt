@@ -138,9 +138,6 @@ msgpack==1.0.8
 multidict==6.0.5
 multitasking==0.0.11
 murmurhash==1.0.10
-mysql-connector==2.2.9
-mysql-connector-python==8.0.33
-mysqlclient==2.2.4
 namex==0.0.8
 nbclient==0.10.0
 nbconvert==7.16.4

@@ -9,6 +9,10 @@ sqlite3  # No version needed, comes pre-installed with Python
 PyPDF2==3.0.1
 webbrowser  # No version needed, part of the standard library
 plotly==5.18.0
+setuptools>=58.0.0
+wheel
+pip>=24.2
+
 
 
 
